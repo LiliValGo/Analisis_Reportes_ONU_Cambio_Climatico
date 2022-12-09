@@ -4,20 +4,16 @@ Web Scraping a la página de la ONU para el Cambio Climático, manipulación de 
 
 ## Documentación
 1. [Requests](https://requests.readthedocs.io/en/latest/)</li>
-2.  [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
- 
-
-
-
-[PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
-[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
-[SpaCy](https://spacy.io/usage)
-[SpaCy Course ](https://course.spacy.io/en/)
-[Seaborn](https://seaborn.pydata.org/)
-[Matplotlib](https://matplotlib.org/stable/index.html)
+2. [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+3. [PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
+4. [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+5. [SpaCy](https://spacy.io/usage)
+6. [SpaCy Course ](https://course.spacy.io/en/)
+7. [Seaborn](https://seaborn.pydata.org/)
+8. [Matplotlib](https://matplotlib.org/stable/index.html)
 
 
 ## Otros Recursos
-[Post de Juan Ignacio Bagnato](https://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/)
-[Canal Youtube Beat Data](https://youtu.be/64zPBbc2LTU)
-[Post de Gerardo Fosado  ](https://medium.com/@yeralway1/primeros-pasos-en-nlp-con-spacy-un-vistazo-general-734686843a57)
+1. [Post de Juan Ignacio Bagnato](https://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/)
+2. [Canal Youtube Beat Data](https://youtu.be/64zPBbc2LTU)
+3. [Post de Gerardo Fosado  ](https://medium.com/@yeralway1/primeros-pasos-en-nlp-con-spacy-un-vistazo-general-734686843a57)
