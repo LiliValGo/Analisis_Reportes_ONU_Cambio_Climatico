@@ -2,19 +2,18 @@
 Web Scraping a la página de la ONU para el Cambio Climático, manipulación de files.pdf, NPL con SpaCy y visualización con nube de palabras 
 ![alt text](https://github.com/LiliValGo/Analisis_Reportes_ONU_Cambio_Climatico/blob/master/LiliValgo-workflow-npl-project.jpg?raw=true)
 
-## Libraries Documentation
+## Documentación
 [Requests](https://requests.readthedocs.io/en/latest/)
+[Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+[PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
+[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+[SpaCy](https://spacy.io/usage)
+[SpaCy Course ](https://course.spacy.io/en/)
+[Seaborn](https://seaborn.pydata.org/)
+[Matplotlib](https://matplotlib.org/stable/index.html)
 
-Requests
-Beautifulsoup
-PyPDF2
-Pandas 
-SpaCy
-SpaCy Course 
-Seaborn 
-Matplotlib
 
-Other sources 
-NLP: Analizamos los cuentos de Hernan Casciari
-Canal Youtube Beat Data 
-
+## Otros Recursos
+[Post de Juan Ignacio Bagnato](https://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/)
+[Canal Youtube Beat Data](https://youtu.be/64zPBbc2LTU)
+[Post de Gerardo Fosado  ](https://medium.com/@yeralway1/primeros-pasos-en-nlp-con-spacy-un-vistazo-general-734686843a57)
