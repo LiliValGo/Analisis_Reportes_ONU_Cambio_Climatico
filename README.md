@@ -3,12 +3,9 @@ Web Scraping a la página de la ONU para el Cambio Climático, manipulación de 
 ![alt text](https://github.com/LiliValGo/Analisis_Reportes_ONU_Cambio_Climatico/blob/master/LiliValgo-workflow-npl-project.jpg?raw=true)
 
 ## Documentación
-<ol>
-  <li>Requests(https://requests.readthedocs.io/en/latest/)</li>
-  <li>[Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>	
+*. [Requests](https://requests.readthedocs.io/en/latest/)</li>
+*. [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+ 
 
 
 
