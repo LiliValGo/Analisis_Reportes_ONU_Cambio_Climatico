@@ -1,5 +1,5 @@
 # Análisis de Reportes de la ONU sobre Cambio Climático
-Web Scraping a la página de la ONU para el Cambio Climático, manipulación de files.pdf, NPL con SpaCy y visualización con nube de palabras 
+Web Scraping a la página web de la ONU para el Cambio Climático, manipulación de files.PDF, NPL con SpaCy, visualización con nube de palabras y outputs con párrafos a partir de inputs de palabras frecuentes. 
 ![alt text](https://github.com/LiliValGo/Analisis_Reportes_ONU_Cambio_Climatico/blob/master/LiliValgo-workflow-npl-project.jpg?raw=true)
 
 ## Documentación
